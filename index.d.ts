@@ -3,5 +3,5 @@
 //
 
 export = sequelize_mysql_timestamp;
-declare function sequelize_mysql_timestamp(sequelize: any);
+declare function sequelize_mysql_timestamp(sequelize: any): any;
 declare namespace sequelize_mysql_timestamp {}
